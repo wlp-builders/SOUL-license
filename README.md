@@ -9,7 +9,7 @@ This license is designed to protect the creators from commercial exploitation wh
 - **Modifications remain open**: Any modifications or redistributions of the software must be made available under the same SOUL license, preserving its open-source nature.
 
 ### License.txt:
-**"Shielded Open Use License (SOUL)" SOFTWARE LICENSE, Version 2.0, 2025**
+"Shielded Open Use License (SOUL)" SOFTWARE LICENSE, Version 2.0, 2025
 
 Copyright (c) [Year], [Your Name or Your Company]
 Copyright holder contact: [Your Contact Information or Commercial License Inquiries Email]
