@@ -13,6 +13,7 @@ This license is designed to protect the creators from commercial exploitation wh
 Version 1.0, [Year]
 
 Copyright (c) [Year], [Your Name or Your Company]
+Copyright holder contact: [Your Contact Information or Commercial License Inquiries Email]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit others to whom the Software is provided to do so, subject to the following conditions:
 
@@ -29,9 +30,7 @@ You may redistribute the Software, either in its original or modified form, prov
 The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the Software.
 
 **Obtaining a Commercial License:**  
-To obtain a commercial license or for inquiries related to using the Software in a commercial product or service (including SaaS offerings), please contact the copyright holder at:
-
-[Your Contact Information or Commercial License Inquiries Email]
+To obtain a commercial license or for inquiries related to using the Software in a commercial product or service (including SaaS offerings), please contact the copyright holder.
 
 This license is intended to be enforceable worldwide and applies without regard to specific jurisdictions.
 
