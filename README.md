@@ -28,7 +28,7 @@ You may redistribute the Software, either in its original or modified form, prov
 **Disclaimer:**  
 The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the Software.
 
-**No copyleft:**:
+**No copyleft:**
 Independent plugins, themes, or extensions that interact with the Software but do not modify its core codebase are not considered derivative works and are not subject to the terms of this license. Their creators may license them under different terms.
 
 **Obtaining a Commercial License:**  
