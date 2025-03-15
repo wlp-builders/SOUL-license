@@ -1,12 +1,12 @@
 # SOUL-license (Version 3.0, 2025)
 The **Shielded Open Use License (SOUL)** allows you to freely use, modify, and distribute this software for both **commercial** and **non-commercial** purposes—**with one important exception**. While you're free to use the software commercially in **any application or product**, **if you plan to use it in a service-based model**, such as **Software-as-a-Service (SaaS)** or **managed hosting**, you will need to obtain a separate commercial license. 
 
-This license is designed to protect the creators from commercial exploitation when the software is used as part of a paid service, while still allowing for broad **open-source** use in general applications, products, and innovations.
+This license is designed to protect the creators from commercial exploitation when the software is used as part of a paid service, while still allowing for broad **source-available** use in general applications, products, and innovations.
 
 ### Key Features:
 - **Commercial use is allowed**: You can use, modify, and distribute the software in commercial applications and products **without any restrictions**.
 - **Service-based use requires a commercial license**: If you plan to offer the software as part of a service (e.g., SaaS, hosting, managed services), you must obtain a commercial license.
-- **Modifications remain open**: Any modifications or redistributions of the software must be made available under the same SOUL license, preserving its open-source nature.
+- **Modifications remain open**: Any modifications or redistributions of the software must be made available under the same SOUL license, preserving its source-available nature.
 
 ### License.txt:
 "Shielded Open Use License (SOUL)" SOFTWARE LICENSE, Version 3.0, 2025
